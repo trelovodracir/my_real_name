@@ -46,3 +46,13 @@ Contributions are welcome! If you have any suggestions or improvements for the p
 ### License
 
 This project is licensed under the MIT License.
+
+## Star History
+
+<a href="https://star-history.com/#trelovodracir/my_real_name&Timeline">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=trelovodracir/my_real_name&type=Timeline&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=trelovodracir/my_real_name&type=Timeline" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=trelovodracir/my_real_name&type=Timeline" />
+ </picture>
+</a>
